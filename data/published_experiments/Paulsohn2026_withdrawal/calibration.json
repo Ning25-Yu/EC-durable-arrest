@@ -1,0 +1,258 @@
+{
+  "F": {
+    "y_axis_path_seqno": 7001,
+    "y_tick_pdf_points": [
+      404.95501708984375,
+      377.7610168457031,
+      350.56451416015625,
+      323.3705291748047
+    ],
+    "y_tick_data_values": [
+      0.0,
+      2.0,
+      4.0,
+      6.0
+    ],
+    "data_y_per_pdf_point": [
+      -0.07354293973881995,
+      29.78160059904802
+    ],
+    "max_tick_fit_residual_data_units": 5.565959895292849e-05,
+    "note": "Linear calibration to the centers of original vector tick marks, not text bounding boxes.",
+    "x_axis_path_seqno": 6999,
+    "x_tick_pdf_points": [
+      103.03944396972656,
+      115.26944732666016,
+      127.50044631958008,
+      139.7314910888672,
+      151.9624481201172,
+      164.19349670410156,
+      176.42449188232422,
+      188.6544952392578,
+      200.88549041748047,
+      213.1165008544922
+    ],
+    "x_tick_data_values": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "data_x_per_pdf_point": [
+      0.08176063411716428,
+      -7.4245391395497835
+    ]
+  },
+  "G": {
+    "y_axis_path_seqno": 8860,
+    "y_tick_pdf_points": [
+      404.95501708984375,
+      377.7610168457031,
+      350.56451416015625,
+      323.3705291748047
+    ],
+    "y_tick_data_values": [
+      0.0,
+      2.0,
+      4.0,
+      6.0
+    ],
+    "data_y_per_pdf_point": [
+      -0.07354293973881995,
+      29.78160059904802
+    ],
+    "max_tick_fit_residual_data_units": 5.565959895292849e-05,
+    "note": "Linear calibration to the centers of original vector tick marks, not text bounding boxes.",
+    "x_axis_path_seqno": 8858,
+    "x_tick_pdf_points": [
+      255.9134979248047,
+      268.14451599121094,
+      280.37550354003906,
+      292.60650634765625,
+      304.83750915527344,
+      317.06849670410156,
+      329.29901123046875,
+      341.5294952392578,
+      353.75950622558594,
+      365.99049377441406
+    ],
+    "x_tick_data_values": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "data_x_per_pdf_point": [
+      0.08176102929383987,
+      -19.92379266886687
+    ]
+  },
+  "H": {
+    "y_axis_path_seqno": 10767,
+    "y_tick_pdf_points": [
+      404.95501708984375,
+      377.7610168457031,
+      350.56451416015625,
+      323.3705291748047
+    ],
+    "y_tick_data_values": [
+      0.0,
+      2.0,
+      4.0,
+      6.0
+    ],
+    "data_y_per_pdf_point": [
+      -0.07354293973881995,
+      29.78160059904802
+    ],
+    "max_tick_fit_residual_data_units": 5.565959895292849e-05,
+    "note": "Linear calibration to the centers of original vector tick marks, not text bounding boxes.",
+    "x_axis_path_seqno": 10765,
+    "x_tick_pdf_points": [
+      406.93247985839844,
+      419.1629943847656,
+      431.39398193359375,
+      443.62449645996094,
+      455.85548400878906,
+      468.08648681640625,
+      480.31748962402344,
+      492.54847717285156,
+      504.7784881591797,
+      517.0094909667969
+    ],
+    "x_tick_data_values": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "data_x_per_pdf_point": [
+      0.08176071896648851,
+      -32.27108003374811
+    ]
+  },
+  "I": {
+    "y_axis_path_seqno": 14706,
+    "y_tick_pdf_points": [
+      559.5185241699219,
+      543.2855224609375,
+      527.0525207519531,
+      510.8195037841797,
+      494.5865173339844,
+      478.35350036621094
+    ],
+    "y_tick_data_values": [
+      0.0,
+      20.0,
+      40.0,
+      60.0,
+      80.0,
+      100.0
+    ],
+    "data_y_per_pdf_point": [
+      -1.2320578249013845,
+      689.3591776712768
+    ],
+    "max_tick_fit_residual_data_units": 1.1100782899120532e-05,
+    "note": "Linear calibration to the centers of original vector tick marks, not text bounding boxes.",
+    "x_axis_path_seqno": 14704,
+    "x_tick_pdf_points": [
+      106.1900520324707,
+      122.63010025024414,
+      139.07109832763672,
+      155.51104736328125,
+      171.9520034790039,
+      188.39199829101562,
+      204.83300018310547
+    ],
+    "x_tick_data_values": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "data_x_per_pdf_point": [
+      0.06082546071416099,
+      -5.4590482059919845
+    ]
+  },
+  "J_D3": {
+    "y_axis_path_seqno": 14509,
+    "y_tick_pdf_points": [
+      574.4940490722656,
+      561.6500549316406,
+      548.8060607910156,
+      535.8880310058594,
+      523.0420227050781,
+      510.1240539550781,
+      497.2800598144531,
+      484.3610534667969
+    ],
+    "y_tick_data_values": [
+      0.0,
+      20.0,
+      40.0,
+      60.0,
+      80.0,
+      100.0,
+      120.0,
+      140.0
+    ],
+    "data_y_per_pdf_point": [
+      -1.553148753003111,
+      892.3234186286074
+    ],
+    "max_tick_fit_residual_data_units": 0.054030329508009345,
+    "note": "Linear calibration to the centers of original vector tick marks, not text bounding boxes."
+  },
+  "J_D7": {
+    "y_axis_path_seqno": 14612,
+    "y_tick_pdf_points": [
+      574.4704895019531,
+      561.6155395507812,
+      548.7615356445312,
+      535.83154296875,
+      522.9755249023438,
+      510.0455322265625,
+      497.19154357910156,
+      484.26153564453125
+    ],
+    "y_tick_data_values": [
+      0.0,
+      20.0,
+      40.0,
+      60.0,
+      80.0,
+      100.0,
+      120.0,
+      140.0
+    ],
+    "data_y_per_pdf_point": [
+      -1.5518378609293146,
+      891.5338938632
+    ],
+    "max_tick_fit_residual_data_units": 0.05503377169520718,
+    "note": "Linear calibration to the centers of original vector tick marks, not text bounding boxes."
+  }
+}

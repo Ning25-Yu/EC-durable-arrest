@@ -1,0 +1,17 @@
+dataset,cell_line,sample,group,treated,phenotype,best_ON,best_OFF,margin,n_fixed_points
+GSE236228,Ishikawa,Control1,control,False,Proliferation,25,22,3,32
+GSE236228,Ishikawa,Control1,control,False,Apoptosis,21,25,-4,32
+GSE236228,Ishikawa,Control2,control,False,Proliferation,21,21,0,32
+GSE236228,Ishikawa,Control2,control,False,Apoptosis,21,21,0,32
+GSE236228,Ishikawa,Control3,control,False,Proliferation,21,22,-1,32
+GSE236228,Ishikawa,Control3,control,False,Apoptosis,21,22,-1,32
+GSE236228,Ishikawa,Penfluridol1,penfluridol,True,Proliferation,16,20,-4,32
+GSE236228,Ishikawa,Penfluridol1,penfluridol,True,Apoptosis,20,19,1,32
+GSE236228,Ishikawa,Penfluridol2,penfluridol,True,Proliferation,18,17,1,32
+GSE236228,Ishikawa,Penfluridol2,penfluridol,True,Apoptosis,17,18,-1,32
+GSE236228,Ishikawa,Penfluridol3,penfluridol,True,Proliferation,16,21,-5,32
+GSE236228,Ishikawa,Penfluridol3,penfluridol,True,Apoptosis,19,21,-2,32
+GSE61481,AN3-CA,GSM1505908,aFGF,False,Proliferation,22,24,-2,32
+GSE61481,AN3-CA,GSM1505909,aFGF,False,Proliferation,18,21,-3,32
+GSE61481,AN3-CA,GSM1505910,aFGF + AZD4547,True,Proliferation,16,20,-4,32
+GSE61481,AN3-CA,GSM1505911,aFGF + AZD4547,True,Proliferation,19,21,-2,32

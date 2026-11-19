@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this repository."
+title: "EC-durable-arrest: network, code and result tables for durable growth arrest after treatment withdrawal in a logical model of endometrial cancer"
+type: software
+version: "1.0.0"
+date-released: "2026-11-16"
+license: MIT
+authors:
+  - family-names: Liu
+    given-names: Xiaowei
+    affiliation: "The First School of Clinical Medicine, Lanzhou University, Lanzhou, China"
+  - family-names: Yu
+    given-names: Ning
+    affiliation: "College of Medicine and Biological Engineering, Northeastern University, Shenyang, China"
+  - family-names: He
+    given-names: Xin
+    affiliation: "Evidence-Based Medicine Center, School of Basic Medical Sciences, Lanzhou University, Lanzhou, China"
+  - family-names: Yang
+    given-names: Kehu
+    affiliation: "Evidence-Based Medicine Center, School of Basic Medical Sciences, Lanzhou University, Lanzhou, China"
+  - family-names: Yang
+    given-names: Yongxiu
+    affiliation: "The First School of Clinical Medicine, Lanzhou University, Lanzhou, China"
+keywords:
+  - endometrial cancer
+  - logical modelling
+  - continuous-time Markov chain
+  - treatment withdrawal
+  - durable response
+  - computational oncology
+repository-code: "https://github.com/Ning25-Yu/EC-durable-arrest"

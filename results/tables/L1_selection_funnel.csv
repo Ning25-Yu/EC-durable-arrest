@@ -1,0 +1,6 @@
+step,genes,script
+differentially expressed genes (tumour vs normal),7977,01_differential_expression.R
+immune-related (ImmPort),759,01_differential_expression.R
+associated with overall survival (univariate Cox),108,02_univariate_cox_volcano.R
+retained by penalised Cox regression,24,03_penalised_cox.R
+retained by stepwise Cox regression,4,04_stepwise_cox.R

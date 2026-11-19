@@ -1,0 +1,6 @@
+S1P, !(Ceramide | Apoptosis)
+FLIP, !(DISC | Apoptosis)
+Fas, !(S1P | Apoptosis)
+Ceramide, Fas & !(S1P | Apoptosis)
+DISC, (Ceramide | (Fas & !FLIP)) & !Apoptosis
+Apoptosis, DISC | Apoptosis

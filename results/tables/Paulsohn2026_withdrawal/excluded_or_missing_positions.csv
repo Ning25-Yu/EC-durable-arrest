@@ -1,0 +1,3 @@
+panel,genetic_condition,drug,day,reason
+F,scrb,Palbociclib,2,Unresolved day-2 position; outside the day-3-to-end window
+F,scrb,Palbo_Soto,2,Unresolved day-2 position; outside the day-3-to-end window

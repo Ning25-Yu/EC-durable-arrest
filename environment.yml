@@ -1,0 +1,10 @@
+name: ec-durable-arrest
+channels:
+  - colomoto
+  - conda-forge
+dependencies:
+  - python=3.11
+  - cmaboss
+  - pip
+  - pip:
+      - -r requirements.txt
